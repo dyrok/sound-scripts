@@ -16,7 +16,7 @@ try:
         winsound.PlaySound(file_path, winsound.SND_LOOP)
 
 except NameError and ValueError:
-    print("Please enter an Number")
+    print("Please Convert it to wav")
     exit()
 
 print("################################SCRIPT BY NEEL SINGH################################")
