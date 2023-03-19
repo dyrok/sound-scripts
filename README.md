@@ -8,7 +8,7 @@ This script was developed by Neel Singh and is intended for personal use, but is
 # Usage 💻
 FIRSTLY: Chnge the Path of the Wav File then, proceed.
 
-To use the script, simply run the sound_script.py file in cmd and enter the number of times you want to play, as well as the number of times you want to play it. The script will then play the audio file in a loop for the specified number of times.
+To use the script, simply run the sound_scripts.py file in cmd and enter the number of times you want to play, as well as the number of times you want to play it. The script will then play the audio file in a loop for the specified number of times.
 
 # Requirements 🥵
 The Sound Script requires Python 3.x and the winsound module, which is built-in to Windows.
